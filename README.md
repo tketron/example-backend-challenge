@@ -30,7 +30,7 @@ The `/messages/` resource accepts HTTP POST actions to create new messages in th
 ```javascript
 {
     "sender": "anson",
-    "converstaion_id": "1234",
+    "conversation_id": "1234",
     "message": "I'm a teapot"
 }
 ```
