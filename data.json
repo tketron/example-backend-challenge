@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "messages": [
+        {
+          "sender": "anson",
+          "message": "I'm a teapot",
+          "created": "2018-01-17T04:50:14.883Z"
+        },
+        {
+          "sender": "david",
+          "message": "Short and stout",
+          "created": "2018-01-17T04:52:17.201Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "messages": [
+        {
+          "sender": "cora",
+          "message": "GIMME FOOD",
+          "created": "2018-01-17T04:50:14.883Z"
+        },
+        {
+          "sender": "whiskey",
+          "message": "ME TOO",
+          "created": "2018-01-17T04:52:17.201Z"
+        }
+      ]
+    }
+  ]
+}
