@@ -1,0 +1,22 @@
+{
+  "name": "example-backend-challenge",
+  "version": "1.0.0",
+  "description": "Hello there! :wave:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tketron/example-backend-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tketron/example-backend-challenge/issues"
+  },
+  "homepage": "https://github.com/tketron/example-backend-challenge#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
